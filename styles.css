@@ -17,44 +17,44 @@ footer {
 }
 
 .w {
-  background-image: url("crash.png");
+  background-image: url("Drum-Kit/crash.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .a {
-  background-image: url("kick.png");
+  background-image: url("Drum-Kit/kick.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .s {
 
-    background-image: url("snare.png");
+    background-image: url("Drum-Kit/snare.png");
     background-size: 100%;
     background-repeat: no-repeat;
 }
 
 .d {
-  background-image: url("tom1.png");
+  background-image: url("Drum-Kit/tom1.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .j {
-  background-image: url("tom2.png");
+  background-image: url("Drum-Kit/tom2.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .k {
-  background-image: url("tom3.png");
+  background-image: url("/tom3.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .l {
-  background-image: url("tom4.png");
+  background-image: url("/tom4.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
