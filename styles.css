@@ -17,7 +17,7 @@ footer {
 }
 
 .w {
-  background-image: url("Drum-Kit/crash.png");
+  background-image: url("/crash.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
